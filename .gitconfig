@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Kanisk
+	email = 57884127+chakrakan@users.noreply.github.com
+	signingkey = 0ACAC4EE09A4217B
+[gpg]
+	program = /usr/local/bin/gpg
+[commit]
+	gpgsign = true
+[credential]
+	helper = osxkeychain
